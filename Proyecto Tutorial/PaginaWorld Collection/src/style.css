@@ -1,0 +1,318 @@
+.titulo .titulo__world{
+    color: rgb(255, 255, 255);
+}
+.titulo{
+    color: rgb(255, 255, 255);
+}
+
+.botones__categorias{
+    color: rgb(255, 255, 255);
+}
+.botones__preguntas{
+    color: rgb(255, 255, 255);
+}
+.botones__contactos{
+    color: rgb(255, 255, 255);
+}
+.botones__comunidad{
+    color: rgb(255, 255, 255);
+}
+.botones__starwars{
+    color: rgb(255, 255, 255);
+}
+.botones .botones__tortugasninja{
+    color: rgb(255, 255, 255);
+}
+.botones__streetsharks{
+    color: rgb(255, 255, 255);
+}
+.botones__funkopop{
+    color: rgb(255, 255, 255);
+}
+.botones__losamosdeluniverso{
+    color: rgb(255, 255, 255);
+}
+.botones__thundercasts{
+    color: rgb(255, 255, 255);
+}
+.botones__alienvspredador{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas .preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+.preguntas__preg{
+    color: rgb(255, 255, 255);
+}
+ul, h2, label {
+  color: white;
+}
+
+.titulo__texto{
+    font-family: "arial";
+}
+.titulo__world{
+    font-family: "arial";
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+.titulo__comunidad{
+    color: white;
+}
+.titulo__comunidad{
+    font-family: "arial";
+}
+h2 {
+    font-family: "arial";
+  }
+body{
+    text-align: center;
+    animation-duration: 3s;
+    animation-name: inicio;
+}
+@keyframes inicio {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  .Aliens{
+      display: flex;
+      flex-direction: column;
+  }
+  .Aliens__img{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin:20px;
+  }
+  .Aliens__1{
+   
+    border: 5px white solid;
+    border-radius: 30%;
+
+  }
+  .Aliens__2{
+   
+    border: 5px white solid;
+    border-radius: 30%;
+
+  }
+  .Aliens__3{
+   
+    border: 5px white solid;
+    border-radius: 30%;
+
+  }
+
+.funko{
+    display: flex;
+    flex-direction: column;
+}
+.funko__img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.funko__1{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.funko__2{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.funko__3{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.amos{
+    display: flex;
+    flex-direction: column;
+}
+.amos__img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.amos__1{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.amos__2{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.amos__3{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.star{
+    display: flex;
+    flex-direction: column;
+}
+.star__img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.star__1{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.star__2{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.star__3{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.sharks{
+    display: flex;
+    flex-direction: column;
+}
+.sharks__img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.sharks__1{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.sharks__2{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.sharks__3{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.thundercasts{
+    display: flex;
+    flex-direction: column;
+}
+.thundercasts__img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.thundercasts__1{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.thundercasts__2{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.thundercastsr__3{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.tortugas{
+    display: flex;
+    flex-direction: column;
+}
+.tortugas__img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+.tortugas__1{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.tortugas__2{
+ 
+  border: 5px white solid;
+  border-radius: 30%;
+
+}
+.tortugas__3{
+
+    border: 5px white solid;
+    border-radius: 30%;
+}
+ 
+ 
